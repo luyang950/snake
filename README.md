@@ -1,5 +1,6 @@
 # Snake
-A simple snake game made on the train.
+A simple snake game.
 
-Vsinger 2017 Live
+I made the game when I was on the way to Vsinger 2017 Live, Shanghai! :P
+Impress live.
 2017.6.17
